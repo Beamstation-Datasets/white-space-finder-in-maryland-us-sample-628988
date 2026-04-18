@@ -9,9 +9,9 @@
 | Dataset ID | `628988` |
 | Location | Maryland |
 | Category | Restaurants |
-| Full dataset size | 121 records |
-| Free sample size | 12 records (9.92%) |
-| Last export | 2026-04-07T18:35:23.278570+00:00 |
+| Full dataset size | 120 records |
+| Free sample size | 12 records (10.0%) |
+| Last export | 2026-04-14T23:49:08.745409+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-maryland-us-sample-628988/releases/download/sample-latest/beamstation_628988_food_and_drink-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
