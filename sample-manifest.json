@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d6bc2c47-6b2c-4164-9ca4-ac273acce7ea",
+  "export_job_id": "c1ecb317-5246-48c5-8b9a-0a87b7240b0d",
   "id_short": 628988,
-  "published_at": "2026-04-22T07:46:51Z",
+  "published_at": "2026-04-29T07:51:17Z",
   "repo_name": "white-space-finder-in-maryland-us-sample-628988",
   "sample_asset_name": "beamstation_628988_food_and_drink-us-md_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/628988/beamstation_628988_food_and_drink-us-md_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "8cfedc52ea3278debb0e7a7df42ec4e4d3ee893ce60275076f09ade55ddd7566",
-  "sample_size_bytes": 45179,
-  "total_records": 86
+  "sample_records": 10,
+  "sample_sha256": "99e90a7d6a1c9eb596cea0fe81805d4332a92aa2947d923686bde2098571b993",
+  "sample_size_bytes": 50463,
+  "total_records": 108
 }
